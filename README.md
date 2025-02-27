@@ -1,7 +1,4 @@
 # Student_Academics-Project
-
-# Student Academics Project
-
 ## Overview
 This project analyzes student academic data, focusing on data cleaning, visualization, and insights extraction. The dataset includes information on student grades, school years, grade levels, and class types.
 
